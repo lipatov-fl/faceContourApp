@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">FaceContour</string>
+    <string name="switch_btn">Switch Camera</string>
+</resources>
